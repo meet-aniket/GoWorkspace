@@ -1,3 +1,3 @@
-module 02variables
+module variables
 
 go 1.22.0
